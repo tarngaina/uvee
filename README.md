@@ -1,3 +1,4 @@
+### This app is moved to: [LtMAO](https://github.com/tarngaina/LtMAO)
 # Uvee
 Uvee is a tool that can export UVs of League of Legends models into PNG files
 
